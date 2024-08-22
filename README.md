@@ -46,3 +46,4 @@ Output Variables:
 14.	AVG WORD LENGTH
 Check out the output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
 
+.
